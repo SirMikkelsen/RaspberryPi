@@ -87,6 +87,7 @@
   <ItemGroup>
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\PIWebservice20180319122203 - Web Deploy.pubxml" />
+    <Content Include="secrets.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
